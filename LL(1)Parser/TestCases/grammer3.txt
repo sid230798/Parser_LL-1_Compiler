@@ -1,0 +1,5 @@
+S=W
+W=ZXY/XY
+Y=c/~
+Z=a/d
+X=Xb/~
